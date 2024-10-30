@@ -15,3 +15,5 @@ Para usar este proyecto, se necesita las siguientes instalaciones:
 También debe contar con un equipo con GPU CUDA para agilizar el proceso de extracción.
 En total, el tiempo de extracción de features fue de aproximadamente 7 horas.
 El resultado es un csv con los feature vectors del dataset.
+
+Por si acaso, también encontrará acá el cuaderno con el código del resto del proyecto.
